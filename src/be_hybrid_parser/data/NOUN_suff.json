@@ -1,0 +1,1830 @@
+{
+  "я": {
+    "я": {
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing": 5319,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing": 213,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing": 102,
+      "Animacy=Anim|Case=Aсс|Gender=Neut|Number=Sing": 102,
+      "Animacy=Inan|InflClass=Ind": 18,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing": 15,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing": 14,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 14,
+      "Animacy=Inan|Case=Aсс|Gender=Neut|Number=Sing": 13,
+      "Animacy=Inan|Gender=Neut|InflClass=Ind": 12,
+      "Animacy=Anim|Gender=Fem|InflClass=Ind": 12,
+      "Animacy=Inan|Gender=Fem|InflClass=Ind": 6,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing": 3,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Aсс|Gender=Masc|Number=Sing": 1
+    },
+    "": {
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 151,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 96,
+      "Animacy=Anim|Case=Aсс|Gender=Masc|Number=Sing": 96
+    },
+    "е": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 12011,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing": 14,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 3
+    },
+    "ь": {
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 320,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 156,
+      "Animacy=Anim|Case=Aсс|Gender=Masc|Number=Sing": 156,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 1
+    },
+    "ё": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 117
+    }
+  },
+  "і": {
+    "я": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 5317,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 5317,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 5315,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur": 1530,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur": 1530,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 214,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 214,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 213,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur": 209,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing": 102,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing": 102,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 101,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 20,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 15,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur": 14,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 8,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 8,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 4,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 4,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 4,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 4,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 3,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 2,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 2,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur": 2,
+      "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur": 2,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur": 1
+    },
+    "": {
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur": 4837,
+      "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur": 4375,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur": 4374,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 376,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur": 78,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 17,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 8,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 7,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 7,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur": 5,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur": 5,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur": 2,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 1,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 1,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 1
+    },
+    "е": {
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 12011,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 1728,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 1728,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing": 14,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 3,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur": 2,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur": 1,
+      "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur": 1
+    },
+    "і": {
+      "Animacy=Inan|Gender=Neut|InflClass=Ind": 666,
+      "Animacy=Inan|Case=Nom|Number=Plur": 312,
+      "Animacy=Inan|Case=Acc|Number=Plur": 311,
+      "Animacy=Anim|Gender=Fem|InflClass=Ind": 192,
+      "Animacy=Anim|Gender=Masc|InflClass=Ind": 174,
+      "Animacy=Inan|Gender=Fem|InflClass=Ind": 72,
+      "Animacy=Inan|Gender=Masc|InflClass=Ind": 60,
+      "Animacy=Inan|InflClass=Ind": 24,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing": 18,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 13,
+      "Animacy=Anim|Gender=Neut|InflClass=Ind": 12,
+      "Animacy=Anim|Case=Nom|Number=Plur": 11,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing": 7,
+      "Animacy=Anim|InflClass=Ind": 6,
+      "Animacy=Inan|Case=Aсс|Gender=Fem|Number=Sing": 2,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur": 1,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur": 1,
+      "Animacy=Inan|Case=Gen|Number=Plur": 1,
+      "Animacy=Inan|Case=Dat|Number=Plur": 1,
+      "Animacy=Inan|Case=Ins|Number=Plur": 1,
+      "Animacy=Inan|Case=Loc|Number=Plur": 1,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Aсс|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur": 1,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Aсс|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur": 1,
+      "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 6871,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur": 4849,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur": 4849,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 3089,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur": 3076,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 52,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur": 52,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 50,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 50,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur": 18,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing": 9,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 6,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur": 5,
+      "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur": 5,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur": 3,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 1,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur": 1,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 1
+    },
+    "ь": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 8593,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 8592,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 8592,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur": 565,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur": 565,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 474,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur": 345,
+      "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur": 345,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur": 159,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 48,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 26,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 26,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 26,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur": 21,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 1
+    },
+    "ё": {
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 118,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing": 101,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing": 101,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 100,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 17,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 17,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 1,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur": 1
+    },
+    "о": {
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 4,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 4,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing": 3,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 3,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing": 3,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur": 1
+    }
+  },
+  "ю": {
+    "я": {
+      "Animacy=Inan|Case=Aсс|Gender=Fem|Number=Sing": 5318,
+      "Animacy=Anim|Case=Aсс|Gender=Fem|Number=Sing": 214,
+      "Animacy=Anim|Case=Aсс|Gender=Masc|Number=Sing": 15,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 12,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 11,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 11,
+      "Animacy=Inan|Case=Aсс|Gender=Masc|Number=Sing": 2,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 2,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 1
+    },
+    "": {
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 375,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 224,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 96,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 79,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 3,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 1
+    },
+    "е": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 12011,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 14,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 3
+    },
+    "ь": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 8592,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 474,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 156,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 154,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 108,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 26,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 2,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 1
+    },
+    "ё": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 117,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 1
+    }
+  },
+  "яй": {
+    "я": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 5208,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 205,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 2
+    },
+    "яя": {
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 4,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 4,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 4,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 4,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "яю": {
+    "я": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 5208,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 205,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 2
+    },
+    "яя": {
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 4,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "": {
+    "": {
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing": 21039,
+      "Animacy=Inan|Case=Aсс|Gender=Masc|Number=Sing": 21006,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing": 10564,
+      "Animacy=Inan|Gender=Neut|InflClass=Ind": 1230,
+      "Animacy=Anim|Gender=Masc|InflClass=Ind": 222,
+      "Animacy=Inan|Gender=Masc|InflClass=Ind": 180,
+      "Animacy=Anim|Gender=Fem|InflClass=Ind": 126,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 87,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 87,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur": 78,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur": 78,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur": 77,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing": 73,
+      "Animacy=Inan|Case=Aсс|Gender=Fem|Number=Sing": 73,
+      "Animacy=Inan|Gender=Fem|InflClass=Ind": 72,
+      "Abbr=Yes|Animacy=Inan|Gender=Fem|InflClass=Ind": 72,
+      "Abbr=Yes|Animacy=Inan|Gender=Masc|InflClass=Ind": 60,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 44,
+      "Abbr=Yes|Animacy=Inan|InflClass=Ind": 24,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 10,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 7,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 7,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 7,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing": 6,
+      "Animacy=Anim|Case=Aсс|Gender=Fem|Number=Sing": 6,
+      "Animacy=Anim|InflClass=Ind": 6,
+      "Animacy=Anim|Gender=Neut|InflClass=Ind": 6,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing": 5,
+      "Animacy=Inan|Case=Aсс|Gender=Neut|Number=Sing": 5,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur": 3,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 3,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur": 3,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur": 3,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur": 3,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur": 3,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 3,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 2,
+      "Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing": 2,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 2,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 2,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 1,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 1,
+      "Animacy=Anim|Case=Aсс|Gender=Masc|Number=Sing": 1,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur": 1,
+      "Animacy=Inan|Case=Gen|Number=Plur": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 8264,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 5353,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 5353,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 238,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 49,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 49,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur": 19,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur": 19,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 5,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur": 3,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur": 3,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur": 3,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur": 3,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur": 1
+    },
+    "і": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 113,
+      "Animacy=Anim|Case=Gen|Number=Plur": 4,
+      "Animacy=Anim|Case=Acc|Number=Plur": 4,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 1
+    },
+    "ы": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 97,
+      "Animacy=Anim|Case=Gen|Number=Plur": 4,
+      "Animacy=Anim|Case=Acc|Number=Plur": 4
+    },
+    "о": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 22
+    },
+    "ё": {
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur": 99,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur": 99
+    },
+    "я": {
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur": 100,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur": 100,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 3,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 1
+    },
+    "ь": {
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 9,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 5,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 5
+    },
+    "е": {
+      "Animacy=Anim|Case=Gen|Number=Plur": 5,
+      "Animacy=Anim|Case=Acc|Number=Plur": 5,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "у": {
+    "": {
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 20634,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 10469,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 10142,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 6803,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 5254,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 34,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 22,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 8,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 5,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 5,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 4,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 4,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 2,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 1,
+      "Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing": 1,
+      "Animacy=Anim|Case=Aсс|Gender=Masc|Number=Sing": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Aсс|Gender=Fem|Number=Sing": 12543,
+      "Animacy=Anim|Case=Aсс|Gender=Fem|Number=Sing": 5512,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 2301,
+      "Animacy=Anim|Case=Aсс|Gender=Masc|Number=Sing": 155,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 149,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 115,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 63,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 23,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing": 18,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 15,
+      "Animacy=Inan|Case=Aсс|Gender=Masc|Number=Sing": 8,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 7,
+      "Animacy=Anim|Case=Aсс|Gender=Neut|Number=Sing": 5,
+      "Animacy=Inan|Case=Aсс|Gender=Neut|Number=Sing": 1
+    },
+    "о": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 130,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 5,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 1,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 1,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 1
+    },
+    "ь": {
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 1,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 1
+    },
+    "і": {
+      "Animacy=Anim|Case=Aсс|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "ам": {
+    "": {
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 19518,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur": 13906,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur": 10346,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 9599,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 38,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur": 27,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur": 4,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 3,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 1,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur": 8492,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur": 5449,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 2303,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 614,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur": 158,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 151,
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing": 23,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Plur": 23,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 16,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur": 12
+    },
+    "і": {
+      "Animacy=Inan|Case=Dat|Number=Plur": 237,
+      "Animacy=Anim|Case=Dat|Number=Plur": 10,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur": 1,
+      "Animacy=Inan|Case=Loc|Number=Plur": 1
+    },
+    "ы": {
+      "Animacy=Inan|Case=Dat|Number=Plur": 343,
+      "Animacy=Anim|Case=Dat|Number=Plur": 30
+    },
+    "о": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 71,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur": 1
+    },
+    "ё": {
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Plur": 100
+    },
+    "я": {
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Plur": 101,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 3
+    },
+    "ь": {
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 1
+    },
+    "е": {
+      "Animacy=Anim|Case=Dat|Number=Plur": 5,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "е": {
+    "": {
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 12335,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 3419,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 8,
+      "Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing": 6,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 2,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 1
+    },
+    "е": {
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing": 12012,
+      "Animacy=Inan|Case=Aсс|Gender=Neut|Number=Sing": 12012,
+      "Animacy=Inan|Gender=Neut|InflClass=Ind": 468,
+      "Animacy=Anim|Gender=Masc|InflClass=Ind": 114,
+      "Animacy=Inan|Gender=Masc|InflClass=Ind": 24,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing": 14,
+      "Animacy=Anim|Case=Aсс|Gender=Neut|Number=Sing": 13,
+      "Animacy=Anim|Case=Nom|Number=Plur": 5,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing": 4,
+      "Animacy=Inan|Case=Aсс|Gender=Masc|Number=Sing": 4,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 1,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 1,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 1,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 1,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 1,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 1,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 4736,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 4736,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 1946,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 660,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 660,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 36,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 13,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 6,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing": 5,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 3,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 2
+    },
+    "о": {
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 96,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing": 1
+    },
+    "я": {
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 2,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 1
+    },
+    "ы": {
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "ем": {
+    "": {
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 370,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 88,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 2
+    },
+    "е": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 12011,
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing": 14,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 3
+    },
+    "ь": {
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 403,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 122,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 1
+    },
+    "я": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 19,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 12,
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing": 1
+    },
+    "ё": {
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing": 1
+    }
+  },
+  "а": {
+    "": {
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 10513,
+      "Animacy=Anim|Case=Aсс|Gender=Masc|Number=Sing": 10469,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 10467,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 13,
+      "Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing": 2,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur": 1,
+      "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing": 12543,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing": 5511,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 2327,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing": 2324,
+      "Animacy=Inan|Case=Aсс|Gender=Neut|Number=Sing": 2321,
+      "Animacy=Inan|Gender=Neut|InflClass=Ind": 1068,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing": 164,
+      "Animacy=Inan|Gender=Masc|InflClass=Ind": 162,
+      "Animacy=Anim|Gender=Masc|InflClass=Ind": 162,
+      "Animacy=Inan|Gender=Fem|InflClass=Ind": 66,
+      "Animacy=Anim|Gender=Fem|InflClass=Ind": 36,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 26,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing": 24,
+      "Animacy=Anim|Gender=Neut|InflClass=Ind": 24,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing": 24,
+      "Animacy=Anim|Case=Aсс|Gender=Neut|Number=Sing": 19,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 18,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 18,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 18,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 18,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 18,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 18,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 18,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 18,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 18,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing": 15,
+      "Animacy=Inan|Case=Aсс|Gender=Masc|Number=Sing": 12,
+      "Animacy=Anim|Case=Aсс|Gender=Masc|Number=Sing": 9,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 8,
+      "Abbr=Yes|Animacy=Inan|Gender=Masc|InflClass=Ind": 6
+    },
+    "о": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 130,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing": 1,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 1,
+      "Animacy=Anim|Case=Aсс|Gender=Masc|Number=Sing": 1
+    },
+    "ь": {
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 1,
+      "Animacy=Anim|Case=Aсс|Gender=Masc|Number=Sing": 1
+    }
+  },
+  "ы": {
+    "": {
+      "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur": 9706,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur": 9704,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur": 5617,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 3056,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 247,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 47,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 38,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 38,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur": 24,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur": 24,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 5,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 5,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 5,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur": 4,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 2
+    },
+    "а": {
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 7794,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 7794,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 5666,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 4851,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 4851,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur": 3725,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur": 3724,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 2423,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur": 2392,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 571,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 571,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 294,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur": 108,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 104,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 13,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 7,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur": 7,
+      "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur": 7,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur": 5,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 4,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 2,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 2,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 1,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 1
+    },
+    "ы": {
+      "Animacy=Inan|Case=Nom|Number=Plur": 349,
+      "Animacy=Inan|Case=Acc|Number=Plur": 349,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing": 241,
+      "Animacy=Inan|Gender=Neut|InflClass=Ind": 210,
+      "Animacy=Anim|Gender=Masc|InflClass=Ind": 72,
+      "Animacy=Anim|Gender=Fem|InflClass=Ind": 36,
+      "Animacy=Anim|Case=Nom|Number=Plur": 30,
+      "Animacy=Inan|Gender=Masc|InflClass=Ind": 30,
+      "Animacy=Inan|Gender=Fem|InflClass=Ind": 25,
+      "Animacy=Inan|InflClass=Ind": 21,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 11,
+      "Abbr=Yes|Animacy=Inan|Gender=Masc|InflClass=Ind": 6,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing": 5,
+      "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing": 5,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing": 5,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Gen|Number=Plur": 1,
+      "Animacy=Inan|Case=Dat|Number=Plur": 1,
+      "Animacy=Inan|Case=Ins|Number=Plur": 1,
+      "Animacy=Inan|Case=Loc|Number=Plur": 1,
+      "Animacy=Inan|Case=Aсс|Gender=Fem|Number=Sing": 1
+    },
+    "о": {
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 99,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 99,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 29
+    },
+    "ё": {
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur": 100
+    },
+    "я": {
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur": 101,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 3,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 3
+    },
+    "е": {
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 1,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 1
+    },
+    "і": {
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 2,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 2,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur": 1
+    }
+  },
+  "аў": {
+    "": {
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 12787,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 9441,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 9441,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 28,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 2,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 1
+    },
+    "і": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 110,
+      "Animacy=Anim|Case=Gen|Number=Plur": 5,
+      "Animacy=Anim|Case=Acc|Number=Plur": 5
+    },
+    "а": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 544,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 404,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 119,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 119,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 112,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 112,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 8,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur": 5,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur": 5
+    },
+    "ы": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 233,
+      "Animacy=Anim|Case=Gen|Number=Plur": 22,
+      "Animacy=Anim|Case=Acc|Number=Plur": 22
+    },
+    "о": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 51
+    },
+    "ё": {
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur": 1
+    },
+    "я": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 3,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "амі": {
+    "": {
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur": 13906,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur": 10347,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur": 27,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur": 4,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 1,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur": 8492,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur": 5449,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 614,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur": 158,
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur": 23,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur": 12
+    },
+    "і": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 238,
+      "Animacy=Anim|Case=Ins|Number=Plur": 10,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur": 1
+    },
+    "ы": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 343,
+      "Animacy=Anim|Case=Ins|Number=Plur": 30
+    },
+    "о": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 71,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur": 1
+    },
+    "ё": {
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur": 100
+    },
+    "я": {
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur": 101,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 3
+    },
+    "е": {
+      "Animacy=Anim|Case=Ins|Number=Plur": 5,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "ах": {
+    "": {
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur": 13906,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur": 10347,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur": 27,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur": 4,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur": 8492,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur": 5449,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 614,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur": 158,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Plur": 23,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur": 12
+    },
+    "і": {
+      "Animacy=Inan|Case=Loc|Number=Plur": 241,
+      "Animacy=Anim|Case=Loc|Number=Plur": 10,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur": 1
+    },
+    "ы": {
+      "Animacy=Inan|Case=Loc|Number=Plur": 343,
+      "Animacy=Anim|Case=Loc|Number=Plur": 30
+    },
+    "о": {
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 71,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur": 1
+    },
+    "ё": {
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Plur": 100
+    },
+    "я": {
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Plur": 101,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 3
+    },
+    "е": {
+      "Animacy=Anim|Case=Loc|Number=Plur": 5,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "ай": {
+    "а": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 12146,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 5474,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 6,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 4,
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 1
+    },
+    "ы": {
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 35,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 35,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 35,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 35,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Gen|Number=Plur": 1
+    },
+    "ая": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 127,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 127,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 127,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 127,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 96,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 96,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 96,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 96
+    },
+    "і": {
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 3,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 2,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 2,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 2,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 2
+    },
+    "": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 3,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 1
+    }
+  },
+  "аю": {
+    "а": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 12146,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 5474,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 6,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 4,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 1
+    },
+    "ы": {
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 35,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 1
+    },
+    "ая": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 127,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 96
+    },
+    "і": {
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 3,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 2
+    },
+    "": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 2
+    }
+  },
+  "ь": {
+    "ь": {
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing": 8593,
+      "Animacy=Inan|Case=Aсс|Gender=Fem|Number=Sing": 8593,
+      "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing": 474,
+      "Animacy=Inan|Case=Aсс|Gender=Masc|Number=Sing": 474,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing": 158,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing": 26,
+      "Animacy=Anim|Case=Aсс|Gender=Fem|Number=Sing": 26,
+      "Animacy=Inan|Gender=Masc|InflClass=Ind": 12,
+      "Animacy=Anim|Gender=Fem|InflClass=Ind": 12,
+      "Animacy=Inan|Gender=Fem|InflClass=Ind": 6,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Aсс|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 1,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 1
+    },
+    "я": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 208,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 84,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 84,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 4,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 4,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 1
+    },
+    "і": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 3
+    },
+    "а": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 1,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 1
+    }
+  },
+  "яў": {
+    "ь": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 533,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 271,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 122,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 122,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 20,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 20
+    },
+    "е": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 1727,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur": 2,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur": 2,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 1,
+      "Animacy=Anim|Case=Aсс|Gender=Neut|Number=Sing": 1
+    },
+    "я": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 321,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 29,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 29,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 8,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 8,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 4,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 1
+    },
+    "і": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 48,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 1
+    },
+    "": {
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 135,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 89,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 89,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 2
+    },
+    "ё": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 12
+    },
+    "о": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "ей": {
+    "ь": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 562,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 21,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 21,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 2,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 2,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 2
+    },
+    "я": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 11,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 6,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 6,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur": 1
+    },
+    "і": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 12,
+      "Animacy=Anim|Case=Gen|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Number=Plur": 1
+    },
+    "": {
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 3,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 3,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 2,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 1
+    },
+    "ё": {
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "ям": {
+    "ь": {
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur": 566,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur": 344,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur": 156,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur": 21
+    },
+    "е": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 1728,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Plur": 2,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur": 1
+    },
+    "я": {
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur": 1522,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur": 206,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur": 12,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 4,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur": 2,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Plur": 1
+    },
+    "і": {
+      "Animacy=Inan|Case=Dat|Number=Plur": 65,
+      "Animacy=Anim|Case=Dat|Number=Plur": 2,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur": 1
+    },
+    "": {
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur": 150,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur": 102,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur": 2,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur": 1
+    },
+    "ё": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 13,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Plur": 1
+    },
+    "о": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "ямі": {
+    "ь": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur": 566,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur": 344,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur": 155,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur": 21
+    },
+    "е": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 1728,
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur": 2,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur": 1
+    },
+    "я": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur": 1522,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur": 206,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur": 12,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 4,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur": 2
+    },
+    "і": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 65,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur": 1
+    },
+    "": {
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur": 150,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur": 99,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur": 2,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur": 1
+    },
+    "ё": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 13
+    },
+    "о": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "ях": {
+    "ь": {
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur": 566,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur": 344,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur": 156,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur": 21
+    },
+    "е": {
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 1728,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Plur": 2,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur": 1
+    },
+    "я": {
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur": 1522,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur": 206,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur": 12,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 4,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur": 2,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Plur": 1
+    },
+    "і": {
+      "Animacy=Inan|Case=Loc|Number=Plur": 65,
+      "Animacy=Anim|Case=Loc|Number=Plur": 2,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 1,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur": 1
+    },
+    "": {
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur": 150,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur": 102,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur": 2,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur": 1
+    },
+    "ё": {
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 13,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Plur": 1
+    },
+    "о": {
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 1
+    },
+    "а": {
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "ом": {
+    "": {
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 1111,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 870,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 4,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 2,
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur": 1
+    },
+    "о": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 130,
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing": 4,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 1
+    }
+  },
+  "оў": {
+    "": {
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 1120,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 901,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 901,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 1
+    },
+    "і": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 18,
+      "Animacy=Anim|Case=Gen|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Number=Plur": 1
+    },
+    "ы": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 19,
+      "Animacy=Anim|Case=Gen|Number=Plur": 4,
+      "Animacy=Anim|Case=Acc|Number=Plur": 4
+    },
+    "о": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 14,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 1
+    },
+    "а": {
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 2,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 2,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 2,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 1
+    }
+  },
+  "й": {
+    "я": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 1130,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 90,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 90,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 1
+    },
+    "і": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 4
+    }
+  },
+  "ага": {
+    "ы": {
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 207,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing": 207,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing": 7,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 4,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 1,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing": 1
+    },
+    "ае": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 94,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing": 3
+    },
+    "і": {
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 13,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing": 13
+    }
+  },
+  "аму": {
+    "ы": {
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 207,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 7,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 4,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 1
+    },
+    "ае": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 94,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 3
+    },
+    "і": {
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 13
+    }
+  },
+  "ым": {
+    "ы": {
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 239,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 239,
+      "Animacy=Anim|Case=Dat|Number=Plur": 238,
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing": 7,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing": 7,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 5,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 5,
+      "Animacy=Inan|Case=Dat|Number=Plur": 3,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 1
+    },
+    "ае": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 83,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 83,
+      "Animacy=Inan|Case=Dat|Number=Plur": 9,
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing": 3,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing": 3,
+      "Animacy=Anim|Case=Dat|Number=Plur": 2
+    },
+    "ыя": {
+      "Animacy=Inan|Case=Dat|Number=Plur": 227,
+      "Animacy=Anim|Case=Dat|Number=Plur": 172
+    },
+    "ая": {
+      "Animacy=Inan|Case=Dat|Number=Plur": 108,
+      "Animacy=Anim|Case=Dat|Number=Plur": 103
+    },
+    "ое": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 11,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 11,
+      "Animacy=Inan|Case=Dat|Number=Plur": 1,
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing": 1,
+      "Animacy=Anim|Case=Loc|Gender=Neut|Number=Sing": 1,
+      "Animacy=Anim|Case=Dat|Number=Plur": 1
+    },
+    "": {
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur": 2,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 1,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 1
+    }
+  },
+  "ая": {
+    "ы": {
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing": 40,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing": 1
+    },
+    "ая": {
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing": 149,
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing": 109
+    },
+    "і": {
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing": 2
+    }
+  },
+  "ую": {
+    "ы": {
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing": 40,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing": 1
+    },
+    "ая": {
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing": 149,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing": 109
+    },
+    "і": {
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing": 2
+    }
+  },
+  "ыя": {
+    "ы": {
+      "Animacy=Anim|Case=Nom|Number=Plur": 238,
+      "Animacy=Inan|Case=Nom|Number=Plur": 3,
+      "Animacy=Inan|Case=Acc|Number=Plur": 3
+    },
+    "ыя": {
+      "Animacy=Inan|Case=Nom|Number=Plur": 227,
+      "Animacy=Inan|Case=Acc|Number=Plur": 227,
+      "Animacy=Anim|Case=Nom|Number=Plur": 172
+    },
+    "ая": {
+      "Animacy=Inan|Case=Nom|Number=Plur": 108,
+      "Animacy=Inan|Case=Acc|Number=Plur": 108,
+      "Animacy=Anim|Case=Nom|Number=Plur": 103
+    },
+    "ае": {
+      "Animacy=Inan|Case=Nom|Number=Plur": 9,
+      "Animacy=Inan|Case=Acc|Number=Plur": 9,
+      "Animacy=Anim|Case=Nom|Number=Plur": 2
+    },
+    "ое": {
+      "Animacy=Inan|Case=Nom|Number=Plur": 1,
+      "Animacy=Inan|Case=Acc|Number=Plur": 1,
+      "Animacy=Anim|Case=Nom|Number=Plur": 1
+    }
+  },
+  "ых": {
+    "ы": {
+      "Animacy=Anim|Case=Gen|Number=Plur": 238,
+      "Animacy=Anim|Case=Acc|Number=Plur": 238,
+      "Animacy=Anim|Case=Loc|Number=Plur": 238,
+      "Animacy=Inan|Case=Gen|Number=Plur": 3,
+      "Animacy=Inan|Case=Loc|Number=Plur": 3
+    },
+    "ыя": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 227,
+      "Animacy=Inan|Case=Loc|Number=Plur": 227,
+      "Animacy=Anim|Case=Gen|Number=Plur": 172,
+      "Animacy=Anim|Case=Acc|Number=Plur": 172,
+      "Animacy=Anim|Case=Loc|Number=Plur": 172
+    },
+    "ая": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 108,
+      "Animacy=Inan|Case=Loc|Number=Plur": 108,
+      "Animacy=Anim|Case=Gen|Number=Plur": 103,
+      "Animacy=Anim|Case=Acc|Number=Plur": 103,
+      "Animacy=Anim|Case=Loc|Number=Plur": 103
+    },
+    "ае": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 9,
+      "Animacy=Inan|Case=Loc|Number=Plur": 9,
+      "Animacy=Anim|Case=Gen|Number=Plur": 2,
+      "Animacy=Anim|Case=Acc|Number=Plur": 2,
+      "Animacy=Anim|Case=Loc|Number=Plur": 2
+    },
+    "ое": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 1,
+      "Animacy=Inan|Case=Loc|Number=Plur": 1,
+      "Animacy=Anim|Case=Gen|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Number=Plur": 1,
+      "Animacy=Anim|Case=Loc|Number=Plur": 1
+    },
+    "": {
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 2,
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur": 2
+    }
+  },
+  "ымі": {
+    "ы": {
+      "Animacy=Anim|Case=Ins|Number=Plur": 238,
+      "Animacy=Inan|Case=Ins|Number=Plur": 3
+    },
+    "ыя": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 227,
+      "Animacy=Anim|Case=Ins|Number=Plur": 172
+    },
+    "ая": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 108,
+      "Animacy=Anim|Case=Ins|Number=Plur": 103
+    },
+    "ае": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 9,
+      "Animacy=Anim|Case=Ins|Number=Plur": 2
+    },
+    "ое": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 1,
+      "Animacy=Anim|Case=Ins|Number=Plur": 1
+    },
+    "": {
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur": 2
+    }
+  },
+  "ой": {
+    "а": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 391,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 38,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 7
+    },
+    "ая": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 22,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 22,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 22,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 22,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 13,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 13,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 13,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 13
+    },
+    "ы": {
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing": 5,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 5,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 5,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 4,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "ою": {
+    "а": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 391,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 38,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 7
+    },
+    "ая": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 22,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 13
+    },
+    "ы": {
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 5,
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "ае": {
+    "ае": {
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing": 94,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing": 92,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing": 3,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Sing": 3,
+      "Animacy=Inan|Case=Aсс|Gender=Neut|Number=Sing": 2
+    },
+    "ы": {
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing": 7,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Sing": 7,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing": 1
+    }
+  },
+  "ём": {
+    "ь": {
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 63,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 30
+    },
+    "ё": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 118,
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing": 101
+    },
+    "я": {
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing": 102,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 2,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 1
+    },
+    "": {
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 8,
+      "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing": 5
+    }
+  },
+  "ёў": {
+    "ь": {
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 65,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 32,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 32
+    },
+    "": {
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 15,
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur": 9,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur": 9
+    },
+    "і": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 1
+    },
+    "ё": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 1
+    },
+    "е": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "ё": {
+    "ё": {
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing": 121,
+      "Animacy=Inan|Case=Aсс|Gender=Neut|Number=Sing": 120,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing": 101,
+      "Animacy=Anim|Case=Aсс|Gender=Neut|Number=Sing": 101,
+      "Animacy=Inan|Gender=Neut|InflClass=Ind": 36
+    }
+  },
+  "ія": {
+    "ая": {
+      "Animacy=Inan|Case=Nom|Number=Plur": 23,
+      "Animacy=Inan|Case=Acc|Number=Plur": 23,
+      "Animacy=Anim|Case=Nom|Number=Plur": 6
+    },
+    "і": {
+      "Animacy=Anim|Case=Nom|Number=Plur": 17
+    },
+    "ія": {
+      "Animacy=Anim|Case=Nom|Number=Plur": 23,
+      "Animacy=Inan|Case=Nom|Number=Plur": 2,
+      "Animacy=Inan|Case=Acc|Number=Plur": 1
+    },
+    "ае": {
+      "Animacy=Inan|Case=Nom|Number=Plur": 3,
+      "Animacy=Inan|Case=Acc|Number=Plur": 3
+    },
+    "яя": {
+      "Animacy=Anim|Case=Nom|Number=Plur": 4,
+      "Animacy=Inan|Case=Nom|Number=Plur": 1,
+      "Animacy=Inan|Case=Acc|Number=Plur": 1
+    }
+  },
+  "іх": {
+    "ая": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 23,
+      "Animacy=Inan|Case=Loc|Number=Plur": 23,
+      "Animacy=Anim|Case=Gen|Number=Plur": 6,
+      "Animacy=Anim|Case=Acc|Number=Plur": 6,
+      "Animacy=Anim|Case=Loc|Number=Plur": 6
+    },
+    "і": {
+      "Animacy=Anim|Case=Gen|Number=Plur": 17,
+      "Animacy=Anim|Case=Acc|Number=Plur": 17,
+      "Animacy=Anim|Case=Loc|Number=Plur": 17
+    },
+    "ія": {
+      "Animacy=Anim|Case=Gen|Number=Plur": 23,
+      "Animacy=Anim|Case=Acc|Number=Plur": 23,
+      "Animacy=Anim|Case=Loc|Number=Plur": 23,
+      "Animacy=Inan|Case=Gen|Number=Plur": 2,
+      "Animacy=Inan|Case=Loc|Number=Plur": 2
+    },
+    "ае": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 3,
+      "Animacy=Inan|Case=Loc|Number=Plur": 3
+    },
+    "яя": {
+      "Animacy=Anim|Case=Gen|Number=Plur": 4,
+      "Animacy=Anim|Case=Acc|Number=Plur": 4,
+      "Animacy=Anim|Case=Loc|Number=Plur": 4,
+      "Animacy=Inan|Case=Gen|Number=Plur": 1,
+      "Animacy=Inan|Case=Loc|Number=Plur": 1
+    }
+  },
+  "ім": {
+    "ая": {
+      "Animacy=Inan|Case=Dat|Number=Plur": 23,
+      "Animacy=Anim|Case=Dat|Number=Plur": 6
+    },
+    "і": {
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 18,
+      "Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing": 18,
+      "Animacy=Anim|Case=Dat|Number=Plur": 17
+    },
+    "яе": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 5,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 5
+    },
+    "ія": {
+      "Animacy=Anim|Case=Dat|Number=Plur": 23,
+      "Animacy=Inan|Case=Dat|Number=Plur": 1
+    },
+    "ое": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 2,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 2
+    },
+    "ае": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 11,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 11,
+      "Animacy=Inan|Case=Dat|Number=Plur": 3
+    },
+    "яя": {
+      "Animacy=Anim|Case=Dat|Number=Plur": 4,
+      "Animacy=Inan|Case=Dat|Number=Plur": 1
+    },
+    "ё": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 1,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 1
+    }
+  },
+  "імі": {
+    "ая": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 23,
+      "Animacy=Anim|Case=Ins|Number=Plur": 6
+    },
+    "і": {
+      "Animacy=Anim|Case=Ins|Number=Plur": 17
+    },
+    "ія": {
+      "Animacy=Anim|Case=Ins|Number=Plur": 23,
+      "Animacy=Inan|Case=Ins|Number=Plur": 1
+    },
+    "ае": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 3
+    },
+    "яя": {
+      "Animacy=Anim|Case=Ins|Number=Plur": 4,
+      "Animacy=Inan|Case=Ins|Number=Plur": 1
+    }
+  },
+  "ое": {
+    "ое": {
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing": 13,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing": 13,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing": 1,
+      "Animacy=Anim|Case=Acc|Gender=Neut|Number=Sing": 1
+    },
+    "ы": {
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "ога": {
+    "ое": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 13,
+      "Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing": 1
+    },
+    "ы": {
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 32,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing": 32,
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing": 1
+    },
+    "і": {
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 2,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing": 2
+    }
+  },
+  "ому": {
+    "ое": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 13,
+      "Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing": 1
+    },
+    "ы": {
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 32,
+      "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing": 1
+    },
+    "і": {
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 2
+    }
+  },
+  "о": {
+    "о": {
+      "Animacy=Inan|Gender=Neut|InflClass=Ind": 737,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing": 133,
+      "Animacy=Inan|Case=Aсс|Gender=Neut|Number=Sing": 133,
+      "Animacy=Anim|Gender=Fem|InflClass=Ind": 36,
+      "Animacy=Inan|Gender=Fem|InflClass=Ind": 30,
+      "Animacy=Anim|Gender=Masc|InflClass=Ind": 24,
+      "Animacy=Inan|InflClass=Ind": 12,
+      "Animacy=Inan|Gender=Masc|InflClass=Ind": 12,
+      "Animacy=Anim|Gender=Neut|InflClass=Ind": 12,
+      "Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing": 4,
+      "Animacy=Anim|Case=Aсс|Gender=Neut|Number=Sing": 4,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 3,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 3,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing": 3,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing": 3,
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur": 3,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 3,
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur": 3,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur": 3,
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 3,
+      "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur": 3,
+      "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing": 1
+    }
+  },
+  "ёй": {
+    "я": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 110,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 9,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 3,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 1,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 1
+    },
+    "": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "ёю": {
+    "я": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 110,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 9,
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing": 3
+    },
+    "": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "эй": {
+    "а": {
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 5,
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 2,
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 1
+    },
+    "ы": {
+      "Animacy=Inan|Case=Gen|Number=Plur": 2
+    },
+    "і": {
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 1,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 1
+    },
+    "": {
+      "Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur": 2,
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur": 2,
+      "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur": 2
+    },
+    "о": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "яе": {
+    "яе": {
+      "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing": 5,
+      "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing": 5
+    }
+  },
+  "яга": {
+    "яе": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 5
+    },
+    "і": {
+      "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing": 3,
+      "Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing": 3
+    }
+  },
+  "яму": {
+    "яе": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 5
+    },
+    "і": {
+      "Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing": 3
+    },
+    "ё": {
+      "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing": 1
+    }
+  },
+  "э": {
+    "а": {
+      "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing": 7,
+      "Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing": 7,
+      "Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing": 1,
+      "Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing": 1
+    },
+    "": {
+      "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing": 1
+    }
+  },
+  "'ю": {
+    "": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing": 6,
+      "Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "еў": {
+    "ь": {
+      "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur": 1
+    }
+  },
+  "яя": {
+    "яя": {
+      "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing": 4,
+      "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "юю": {
+    "яя": {
+      "Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing": 4,
+      "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing": 1
+    }
+  },
+  "ыма": {
+    "а": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 1
+    },
+    "ы": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 2
+    },
+    "о": {
+      "Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur": 1
+    }
+  },
+  "ьмі": {
+    "і": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 2,
+      "Animacy=Anim|Case=Ins|Number=Plur": 1
+    },
+    "ё": {
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur": 2
+    },
+    "я": {
+      "Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur": 2
+    },
+    "ь": {
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur": 1
+    },
+    "": {
+      "Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur": 2
+    },
+    "а": {
+      "Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur": 1
+    }
+  },
+  "мі": {
+    "ы": {
+      "Animacy=Inan|Case=Ins|Number=Plur": 1
+    }
+  },
+  "яго": {
+    "ё": {
+      "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing": 1
+    }
+  }
+}
