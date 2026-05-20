@@ -1,0 +1,37 @@
+{
+  "": {
+    "а": {
+      "а": {
+        "Degree=Pos": 6865,
+        "Degree=Sup": 1
+      },
+      "ей": {
+        "Degree=Cmp": 1480,
+        "Degree=Sup": 110
+      },
+      "ай": {
+        "Degree=Cmp": 8,
+        "Degree=Sup": 2
+      },
+      "эй": {
+        "Degree=Cmp": 76,
+        "Degree=Sup": 45
+      },
+      "": {
+        "Degree=Cmp": 10,
+        "Degree=Sup": 6
+      }
+    },
+    "": {
+      "": {
+        "Degree=Pos": 3050,
+        "Degree=Sup": 6,
+        "Degree=Cmp": 9
+      },
+      "ей": {
+        "Degree=Cmp": 8,
+        "Degree=Sup": 3
+      }
+    }
+  }
+}

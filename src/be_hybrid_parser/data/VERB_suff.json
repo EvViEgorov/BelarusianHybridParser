@@ -1,0 +1,1294 @@
+{
+  "IM": {
+    "цца": {
+      "цца": {
+        "Aspect=Imp|VerbForm=Inf|Voice=Mid": 9121
+      },
+      "ецца": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 8153
+      },
+      "юцца": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 8074
+      },
+      "ўся": {
+        "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 9004
+      },
+      "лася": {
+        "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 9040,
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 9102
+      },
+      "ліся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid": 9013
+      },
+      "юся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 3871
+      },
+      "ешся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 3697
+      },
+      "емся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 3676
+      },
+      "ецеся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 3678
+      },
+      "йся": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 3157
+      },
+      "йцеся": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 3168
+      },
+      "ючыся": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid": 4581
+      },
+      "ёмся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 57
+      },
+      "яцеся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 57
+      },
+      "іцца": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 626
+      },
+      "яцца": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 603
+      },
+      "уся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 410
+      },
+      "ішся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 360
+      },
+      "імся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 362
+      },
+      "іцеся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 362,
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 151
+      },
+      "ься": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 128
+      },
+      "ьцеся": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 128
+      },
+      "ячыся": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid": 386
+      },
+      "ышся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 201
+      },
+      "ыцца": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 314
+      },
+      "ымся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 200
+      },
+      "ыцеся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 200,
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 90
+      },
+      "ацца": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 293,
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 30
+      },
+      "ся": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 140
+      },
+      "цеся": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 140
+      },
+      "ачыся": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid": 206
+      },
+      "эцца": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 5
+      },
+      "уцца": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 55
+      },
+      "ыся": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 90
+      },
+      "іся": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 150
+      },
+      "ашся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 22
+      },
+      "амся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 22
+      },
+      "ацеся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 24
+      },
+      "учыся": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid": 42
+      },
+      "эшся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 2
+      },
+      "омся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 2
+      },
+      "лося": {
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 5
+      }
+    },
+    "ціся": {
+      "ціся": {
+        "Aspect=Imp|VerbForm=Inf|Voice=Mid": 29
+      },
+      "уся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 17
+      },
+      "ешся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 14
+      },
+      "ецца": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 24
+      },
+      "ёмся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 13
+      },
+      "яцеся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 13
+      },
+      "уцца": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 27
+      },
+      "ўся": {
+        "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 11
+      },
+      "лася": {
+        "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 28,
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 19
+      },
+      "ліся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid": 27
+      },
+      "іся": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 12
+      },
+      "іцеся": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 12
+      },
+      "ючыся": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid": 1
+      },
+      "ся": {
+        "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 16
+      },
+      "лося": {
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 11
+      },
+      "учыся": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid": 13
+      },
+      "эшся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 3
+      },
+      "эцца": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 4
+      },
+      "омся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 4
+      },
+      "ацеся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 4
+      },
+      "ыся": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 3
+      },
+      "ыцеся": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 3
+      },
+      "ца": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 1
+      },
+      "емся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 1
+      },
+      "ецеся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 1
+      }
+    },
+    "чыся": {
+      "чыся": {
+        "Aspect=Imp|VerbForm=Inf|Voice=Mid": 12
+      },
+      "ыцца": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 1
+      },
+      "лася": {
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 5,
+        "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 9
+      },
+      "уся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 9
+      },
+      "эшся": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 9
+      },
+      "эцца": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 9
+      },
+      "омся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid": 9
+      },
+      "ацеся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid": 9
+      },
+      "уцца": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 9
+      },
+      "ся": {
+        "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 9
+      },
+      "лося": {
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 7
+      },
+      "ліся": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid": 9
+      },
+      "ыся": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 9
+      },
+      "ыцеся": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 9
+      },
+      "учыся": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid": 6
+      },
+      "ачыся": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid": 1
+      },
+      "ацца": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid": 2
+      }
+    }
+  },
+  "IA": {
+    "ць": {
+      "ць": {
+        "Aspect=Imp|VerbForm=Inf|Voice=Act": 13838
+      },
+      "ю": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 11951
+      },
+      "еш": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 11513
+      },
+      "е": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 12121
+      },
+      "ем": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 11375
+      },
+      "еце": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 11374
+      },
+      "юць": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 11990
+      },
+      "ў": {
+        "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 13729
+      },
+      "ла": {
+        "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 13781,
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 13815
+      },
+      "лі": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act": 13768
+      },
+      "й": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 10735
+      },
+      "йце": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 10735
+      },
+      "ючы": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act": 11692
+      },
+      "у": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 1141
+      },
+      "іш": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 945
+      },
+      "іць": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 1029
+      },
+      "ім": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 944
+      },
+      "іце": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 945,
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 402
+      },
+      "яць": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 1012
+      },
+      "ь": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 417
+      },
+      "ьце": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 416
+      },
+      "ячы": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act": 871
+      },
+      "ём": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 100
+      },
+      "яце": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 100
+      },
+      "ыш": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 537
+      },
+      "ыць": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 586
+      },
+      "ым": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 536
+      },
+      "ыце": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 536,
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 306
+      },
+      "аць": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 574
+      },
+      "": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 357,
+        "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 37
+      },
+      "це": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 357
+      },
+      "ачы": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act": 412
+      },
+      "і": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 402
+      },
+      "эш": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 13
+      },
+      "э": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 13
+      },
+      "ом": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 12
+      },
+      "аце": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 100
+      },
+      "уць": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 197
+      },
+      "ы": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 307
+      },
+      "аш": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 89
+      },
+      "а": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 96
+      },
+      "ам": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 88
+      },
+      "учы": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act": 254
+      },
+      "ло": {
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 7
+      },
+      "эм": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "эце": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      }
+    },
+    "ці": {
+      "ці": {
+        "Aspect=Imp|VerbForm=Inf|Voice=Act": 44
+      },
+      "у": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 40
+      },
+      "еш": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 37
+      },
+      "е": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 38
+      },
+      "ём": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 34
+      },
+      "яце": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 34
+      },
+      "уць": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 43
+      },
+      "ў": {
+        "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 19
+      },
+      "ла": {
+        "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 44,
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 24
+      },
+      "лі": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act": 44
+      },
+      "і": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 33
+      },
+      "іце": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 33
+      },
+      "ючы": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act": 2
+      },
+      "": {
+        "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 25,
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 2
+      },
+      "учы": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act": 38
+      },
+      "ло": {
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 21
+      },
+      "ць": {
+        "Aspect=Imp|VerbForm=Inf|Voice=Act": 2,
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "ю": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "юць": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "й": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 1
+      },
+      "йце": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 1
+      },
+      "эш": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 4
+      },
+      "э": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 5
+      },
+      "ом": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 5
+      },
+      "аце": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 5
+      },
+      "ы": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 4
+      },
+      "ыце": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 4
+      },
+      "м": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "сі": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "ім": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "це": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 1,
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 2
+      },
+      "ем": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 3
+      },
+      "еце": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 3
+      },
+      "ь": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 2
+      },
+      "ьце": {
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 2
+      }
+    },
+    "чы": {
+      "чы": {
+        "Aspect=Imp|VerbForm=Inf|Voice=Act": 13
+      },
+      "у": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 11
+      },
+      "ыш": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "ыць": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "ым": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "ыце": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 1,
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 10
+      },
+      "уць": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 12
+      },
+      "": {
+        "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 12
+      },
+      "ла": {
+        "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 12,
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 5
+      },
+      "лі": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act": 12
+      },
+      "ы": {
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 10
+      },
+      "учы": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act": 9
+      },
+      "эш": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 9
+      },
+      "э": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 10
+      },
+      "ом": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 9
+      },
+      "аце": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 10
+      },
+      "ло": {
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 7
+      },
+      "ачы": {
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act": 1
+      },
+      "аш": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "а": {
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      },
+      "ам": {
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act": 1
+      }
+    }
+  },
+  "PM": {
+    "цца": {
+      "цца": {
+        "Aspect=Perf|VerbForm=Inf|Voice=Mid": 8293
+      },
+      "іцца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 2371
+      },
+      "яцца": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 2347
+      },
+      "ўся": {
+        "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 8171
+      },
+      "лася": {
+        "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 8190,
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 8163
+      },
+      "ліся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid": 8216
+      },
+      "юся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 3173
+      },
+      "ішся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 1620
+      },
+      "імся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 1670
+      },
+      "іцеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 1656,
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 1343
+      },
+      "іся": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 1338
+      },
+      "ўшыся": {
+        "Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid": 6804
+      },
+      "ешся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 2959
+      },
+      "ецца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 4489
+      },
+      "емся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 2799
+      },
+      "ецеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 2799
+      },
+      "юцца": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 3593
+      },
+      "йся": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 1862
+      },
+      "йцеся": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 2060
+      },
+      "уся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 2423
+      },
+      "ышся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 805
+      },
+      "ыцца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 1125
+      },
+      "ымся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 810
+      },
+      "ыцеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 809,
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 476
+      },
+      "ацца": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 1111,
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 232
+      },
+      "ся": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 509,
+        "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 15
+      },
+      "цеся": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 511
+      },
+      "эшся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 45
+      },
+      "эцца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 58
+      },
+      "омся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 44
+      },
+      "ацеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 219
+      },
+      "уцца": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 1199
+      },
+      "ашся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 172
+      },
+      "амся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 174
+      },
+      "ыся": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 475
+      },
+      "ёмся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 542
+      },
+      "яцеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 542
+      },
+      "ься": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 483
+      },
+      "ьцеся": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 486
+      },
+      "лося": {
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 120
+      },
+      "эмся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 2
+      },
+      "эцеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 2
+      },
+      "шыся": {
+        "Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid": 11
+      },
+      "мся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 14
+      },
+      "сіся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 14
+      },
+      "сца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 18
+      },
+      "сцеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 14
+      },
+      "ася": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 1
+      },
+      "мося": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 1
+      },
+      "сцёся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 1
+      }
+    },
+    "ціся": {
+      "ціся": {
+        "Aspect=Perf|VerbForm=Inf|Voice=Mid": 234
+      },
+      "мся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 7
+      },
+      "сіся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 7
+      },
+      "ца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 8
+      },
+      "імся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 7
+      },
+      "цеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 4,
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 6
+      },
+      "уцца": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 230
+      },
+      "ўся": {
+        "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 97
+      },
+      "лася": {
+        "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 231,
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 159
+      },
+      "ліся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid": 231
+      },
+      "ўшыся": {
+        "Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid": 73
+      },
+      "уся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 157
+      },
+      "эшся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 32
+      },
+      "эцца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 42
+      },
+      "омся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 33
+      },
+      "ацеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 36
+      },
+      "ся": {
+        "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 134,
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 6
+      },
+      "ыся": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 30
+      },
+      "ыцеся": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 30
+      },
+      "шыся": {
+        "Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid": 106
+      },
+      "ешся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 122
+      },
+      "ецца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 177
+      },
+      "ёмся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 97
+      },
+      "яцеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 97
+      },
+      "лося": {
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 70
+      },
+      "іся": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 83
+      },
+      "іцеся": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 83
+      },
+      "емся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 30
+      },
+      "ецеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 30
+      },
+      "ься": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 4
+      },
+      "ьцеся": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 4
+      },
+      "ашся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 3
+      },
+      "ацца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 3
+      },
+      "амся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 3
+      },
+      "юцца": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 1
+      },
+      "сца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 3
+      },
+      "сцеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 3
+      }
+    },
+    "чыся": {
+      "чыся": {
+        "Aspect=Perf|VerbForm=Inf|Voice=Mid": 121
+      },
+      "уся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 75
+      },
+      "эшся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 54
+      },
+      "эцца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 92
+      },
+      "омся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 55
+      },
+      "ацеся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 69
+      },
+      "уцца": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 118
+      },
+      "ся": {
+        "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 118,
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 4
+      },
+      "лася": {
+        "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 124,
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 55
+      },
+      "лося": {
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid": 66
+      },
+      "ліся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid": 124
+      },
+      "ыся": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid": 55
+      },
+      "ыцеся": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 56,
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 7
+      },
+      "ацца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 19
+      },
+      "ашся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 14
+      },
+      "амся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 14
+      },
+      "шыся": {
+        "Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid": 84
+      },
+      "ышся": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid": 7
+      },
+      "ыцца": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid": 7
+      },
+      "ымся": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid": 7
+      },
+      "цеся": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid": 4
+      }
+    }
+  },
+  "PA": {
+    "ць": {
+      "ць": {
+        "Aspect=Perf|VerbForm=Inf|Voice=Act": 18142
+      },
+      "у": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 5961
+      },
+      "іш": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 3800
+      },
+      "іць": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 3969
+      },
+      "ім": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 3841
+      },
+      "іце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 3821,
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 3905
+      },
+      "яць": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 3935
+      },
+      "ў": {
+        "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 17834
+      },
+      "ла": {
+        "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 18077,
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 18039
+      },
+      "лі": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act": 18075
+      },
+      "і": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 3901
+      },
+      "ўшы": {
+        "Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act": 17549
+      },
+      "еш": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 10692
+      },
+      "е": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 11766
+      },
+      "ем": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 9621
+      },
+      "еце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 9620
+      },
+      "уць": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 2847
+      },
+      "ь": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 1245
+      },
+      "ьце": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 1254
+      },
+      "ю": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 10845
+      },
+      "юць": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 9435
+      },
+      "й": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 7906
+      },
+      "йце": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 7987
+      },
+      "ыш": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 1821
+      },
+      "ыць": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 1904
+      },
+      "ым": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 1820
+      },
+      "ыце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 1821,
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 1246
+      },
+      "аць": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 1880
+      },
+      "ы": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 1246
+      },
+      "": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 1183,
+        "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 240
+      },
+      "це": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 1180
+      },
+      "ём": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 1210
+      },
+      "яце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 1211
+      },
+      "эш": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 96
+      },
+      "э": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 98
+      },
+      "ом": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 91
+      },
+      "аце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 514
+      },
+      "аш": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 422
+      },
+      "а": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 438
+      },
+      "ам": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 422
+      },
+      "эм": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 5
+      },
+      "эце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 4
+      },
+      "ло": {
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 171
+      },
+      "шы": {
+        "Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act": 184
+      },
+      "м": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 24
+      },
+      "сі": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 24
+      },
+      "сць": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 24
+      },
+      "сце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 24
+      },
+      "мо": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 4
+      },
+      "сцё": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 4
+      }
+    },
+    "ці": {
+      "ці": {
+        "Aspect=Perf|VerbForm=Inf|Voice=Act": 503
+      },
+      "м": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 17
+      },
+      "сі": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 16
+      },
+      "ць": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 18,
+        "Aspect=Perf|VerbForm=Inf|Voice=Act": 19
+      },
+      "ім": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 17
+      },
+      "це": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 16,
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 19
+      },
+      "уць": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 493
+      },
+      "ў": {
+        "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 250
+      },
+      "ла": {
+        "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 505,
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 305
+      },
+      "лі": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act": 506
+      },
+      "": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 19,
+        "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 254
+      },
+      "ўшы": {
+        "Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act": 245
+      },
+      "у": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 446
+      },
+      "еш": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 390
+      },
+      "е": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 421
+      },
+      "ем": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 84
+      },
+      "еце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 84
+      },
+      "эш": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 57
+      },
+      "э": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 59
+      },
+      "ом": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 58
+      },
+      "аце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 62
+      },
+      "ы": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 57
+      },
+      "ыце": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 58
+      },
+      "шы": {
+        "Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act": 249
+      },
+      "ём": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 307
+      },
+      "яце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 307
+      },
+      "і": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 333
+      },
+      "іце": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 332
+      },
+      "ло": {
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 192
+      },
+      "юць": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 11
+      },
+      "ь": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 31
+      },
+      "ьце": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 31
+      },
+      "аш": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 3
+      },
+      "а": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 5
+      },
+      "ам": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 4
+      },
+      "ю": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 3
+      },
+      "й": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 2
+      },
+      "йце": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 2
+      },
+      "мо": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 1
+      },
+      "сце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 1
+      },
+      "сцё": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 1
+      }
+    },
+    "чы": {
+      "чы": {
+        "Aspect=Perf|VerbForm=Inf|Voice=Act": 207
+      },
+      "у": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 176
+      },
+      "ыш": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 18
+      },
+      "ыць": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 18
+      },
+      "ым": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 18
+      },
+      "ыце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 18,
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 160
+      },
+      "уць": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 192
+      },
+      "": {
+        "Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 192,
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 12,
+        "Aspect=Perf|VerbForm=Inf|Voice=Act": 4
+      },
+      "ла": {
+        "Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 204,
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 85
+      },
+      "лі": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act": 201
+      },
+      "ы": {
+        "Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act": 160
+      },
+      "шы": {
+        "Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act": 180
+      },
+      "эш": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 124
+      },
+      "э": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 136
+      },
+      "ом": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 124
+      },
+      "аце": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 159
+      },
+      "ло": {
+        "Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act": 106
+      },
+      "аш": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act": 34
+      },
+      "а": {
+        "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act": 39
+      },
+      "ам": {
+        "Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act": 35
+      },
+      "це": {
+        "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act": 12
+      }
+    }
+  }
+}

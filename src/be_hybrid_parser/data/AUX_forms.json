@@ -1,0 +1,124 @@
+{
+  "быць": [
+    {
+      "быць": [
+        "Aspect=Imp|VerbForm=Inf|Voice=Act",
+        "VIMN30"
+      ]
+    },
+    {
+      "ёсць": [
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act",
+        "VIMN3R1S"
+      ]
+    },
+    {
+      "буду": [
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act",
+        "VIMN3F1S"
+      ]
+    },
+    {
+      "ёсць": [
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+        "VIMN3R2S"
+      ]
+    },
+    {
+      "будзеш": [
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act",
+        "VIMN3F2S"
+      ]
+    },
+    {
+      "ёсць": [
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+        "VIMN3R3S"
+      ]
+    },
+    {
+      "будзе": [
+        "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act",
+        "VIMN3F3S"
+      ]
+    },
+    {
+      "ёсць": [
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act",
+        "VIMN3R1P"
+      ]
+    },
+    {
+      "будзем": [
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act",
+        "VIMN3F1P"
+      ]
+    },
+    {
+      "ёсць": [
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+        "VIMN3R2P"
+      ]
+    },
+    {
+      "будзеце": [
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act",
+        "VIMN3F2P"
+      ]
+    },
+    {
+      "ёсць": [
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+        "VIMN3R3P"
+      ]
+    },
+    {
+      "будуць": [
+        "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act",
+        "VIMN3F3P"
+      ]
+    },
+    {
+      "быў": [
+        "Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+        "VIMN3PMS"
+      ]
+    },
+    {
+      "была": [
+        "Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+        "VIMN3PFS"
+      ]
+    },
+    {
+      "было": [
+        "Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act",
+        "VIMN3PNS"
+      ]
+    },
+    {
+      "былі": [
+        "Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act",
+        "VIMN3PXP"
+      ]
+    },
+    {
+      "будзь": [
+        "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act",
+        "VIMN3I2S"
+      ]
+    },
+    {
+      "будзьце": [
+        "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act",
+        "VIMN3I2P"
+      ]
+    },
+    {
+      "будучы": [
+        "Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act",
+        "VIMN3RG"
+      ]
+    }
+  ]
+}
