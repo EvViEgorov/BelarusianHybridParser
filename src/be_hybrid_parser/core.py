@@ -1,9 +1,28 @@
 import stanza
 from stanza.resources.common import ResourcesFileNotFoundError
+from sympy.logic.boolalg import Boolean
+
 from .morph import MorphAnalyzer
 
 
 class BeHybridParser:
+    '''
+    A class for parsing Belarusian texts
+
+    :param text: A text for analysis
+    :type text: str
+    :param neural_hints: Defines which data will be taken from stanza for analysis correction
+        Allowed values: ``None``, ``'lemma'``, ``'pos_feats'``
+    :type neural_hints: None or str
+    :param use_dicts: Defines if stem dicts will be used for NOUN, ADJ, VERB and ADV analysis
+    :type use_dicts: bool
+
+    Attributes:
+    :ivar text: Analyzed text
+    :ivar tokens: List of tokens
+    :ivar analysis: Text analysis
+    '''
+
     _stanza_pipeline = None
 
     def __init__(self, text, neural_hints=None, use_dicts=True):
