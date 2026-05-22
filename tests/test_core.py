@@ -1,11 +1,10 @@
 import stanza
 
-from be_hybrid_parser.core import BeHybridParser
-from be_hybrid_parser.morph import MorphAnalyzer
+from be_hybrid_parser import BeHybridParser
 from pprint import pprint
 
 
-parser = BeHybridParser("ён зрабіў гэта падчас", neural_hints=None, use_dicts=True)
+parser = BeHybridParser("Нешта на беларускай мове", neural_hints=None, use_dicts=True)
 
 pprint(
     parser.analysis,

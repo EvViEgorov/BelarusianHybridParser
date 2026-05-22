@@ -2,37 +2,37 @@
   "абуля-што": [
     {
       "абуля-што": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "абуля-чаго": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "абуля-чаму": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "абуля-што": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "абуля-чым": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "абуля-чым": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -84,37 +84,37 @@
   "абы-хто": [
     {
       "абы-хто": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "абы-каго": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "абы-каму": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "абы-каго": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "абы-кім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "абы-кім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -286,37 +286,37 @@
   "абы-што": [
     {
       "абы-што": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "абы-чаго": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "абы-чаму": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "абы-што": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "абы-чым": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "абы-чым": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -822,43 +822,37 @@
   "аніхто": [
     {
       "аніхто": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "анікога": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "анікому": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "анікога": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "анікім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "анікім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ані аб кім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -866,43 +860,37 @@
   "анішто": [
     {
       "анішто": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "анічога": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "анічому": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "анішто": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "анічым": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "анічым": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ані аб чым": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -5224,7 +5212,7 @@
   "некага": [
     {
       "некага": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     }
@@ -5616,37 +5604,37 @@
   "нехта": [
     {
       "нехта": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "некага": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "некаму": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "некага": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "некім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "некім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -5654,37 +5642,37 @@
   "нехтась": [
     {
       "нехтась": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "некагась": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "некамусь": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "некагась": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "некімсь": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "некімсь": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -5692,7 +5680,7 @@
   "нечага": [
     {
       "нечага": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     }
@@ -5871,37 +5859,37 @@
   "нешта": [
     {
       "нешта": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "нечага": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "нечаму": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "нешта": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "нечым": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "нечым": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -5909,37 +5897,37 @@
   "нештась": [
     {
       "нештась": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "нечагась": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "нечамусь": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "нештась": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "нечымсь": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "нечымсь": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -5947,13 +5935,13 @@
   "нештачка": [
     {
       "нештачка": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "нештачка": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     }
@@ -6283,43 +6271,37 @@
   "нікагенька": [
     {
       "нікагенька": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нікагенька": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нікагеньку": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нікагенька": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нікагенькім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нікагенькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ні аб кагенькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -6327,43 +6309,37 @@
   "нікагусенька": [
     {
       "нікагусенька": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нікагусенька": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нікамусеньку": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нікагусенька": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нікагусенькім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нікагусенькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ні аб кагусенькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -6371,7 +6347,7 @@
   "нікагусенькі": [
     {
       "нікагусенькі": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     }
@@ -6379,43 +6355,37 @@
   "нікагутанька": [
     {
       "нікагутанька": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нікагутанька": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нікагутаньку": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нікагутанька": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нікагутанькім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нікагутанькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ні аб кагутанькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -6423,43 +6393,37 @@
   "нікагутка": [
     {
       "нікагутка": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нікагутка": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нікагуку": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нікагутка": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нікагуткім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нікагуткім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ні аб кагуткім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -6467,37 +6431,37 @@
   "ніхто": [
     {
       "ніхто": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нікога": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нікому": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нікога": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нікім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нікім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -6505,43 +6469,37 @@
   "нічагенечка": [
     {
       "нічагенечка": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нічагенечка": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нічагенечку": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нічагенечка": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нічагенечкім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нічагенечкім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ні аб чагенечкім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -6549,43 +6507,37 @@
   "нічагенька": [
     {
       "нічагенька": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нічагенька": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нічагеньку": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нічагенька": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нічагенькім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нічагенькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ні аб чагенькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -6593,43 +6545,37 @@
   "нічагусенька": [
     {
       "нічагусенька": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нічагусенька": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нічамусеньку": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нічагусенька": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нічагусенькім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нічагусенькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ні аб чагусенькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -6637,43 +6583,37 @@
   "нічагутанька": [
     {
       "нічагутанька": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нічагутанька": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нічамутаньку": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нічагутанька": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нічагутанькім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нічагутанькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ні аб чагутанькім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -6681,43 +6621,37 @@
   "нічагутачка": [
     {
       "нічагутачка": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нічагутачка": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нічамутачку": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нічагутачка": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нічагутачкім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нічагутачкім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ні аб чагутачкім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -6725,43 +6659,37 @@
   "нічагутка": [
     {
       "нічагутка": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нічагутка": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нічамутку": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нічагутка": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нічагуткім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нічагуткім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
-        "SNN00LS"
-      ]
-    },
-    {
-      "ні аб чагуткім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -7091,37 +7019,37 @@
   "нішто": [
     {
       "нішто": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Neg",
         "SNN00NS"
       ]
     },
     {
       "нічога": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Neg",
         "SNN00GS"
       ]
     },
     {
       "нічому": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Neg",
         "SNN00DS"
       ]
     },
     {
       "нішто": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Neg",
         "SNN00AS"
       ]
     },
     {
       "нічым": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Neg",
         "SNN00IS"
       ]
     },
     {
       "нічым": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Neg",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Neg",
         "SNN00LS"
       ]
     }
@@ -10754,37 +10682,37 @@
   "хто": [
     {
       "хто": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Int",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Int",
         "SNL00NS"
       ]
     },
     {
       "каго": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Int",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Int",
         "SNL00GS"
       ]
     },
     {
       "каму": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Int",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Int",
         "SNL00DS"
       ]
     },
     {
       "каго": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Int",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Int",
         "SNL00AS"
       ]
     },
     {
       "кім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Int",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Int",
         "SNL00IS"
       ]
     },
     {
       "кім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Int",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Int",
         "SNL00LS"
       ]
     }
@@ -10792,37 +10720,37 @@
   "хто-колечы": [
     {
       "хто-колечы": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "каго-колечы": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "каму-колечы": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "каго-колечы": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "кім-колечы": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "кім-колечы": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -10830,37 +10758,37 @@
   "хто-кольвек": [
     {
       "хто-кольвек": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "каго-кольвек": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "каму-кольвек": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "каго-кольвек": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "кім-кольвек": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "кім-кольвек": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -10868,37 +10796,37 @@
   "хто-небудзь": [
     {
       "хто-небудзь": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "каго-небудзь": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "каму-небудзь": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "каго-небудзь": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "кім-небудзь": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "кім-небудзь": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -10906,37 +10834,37 @@
   "хто-ніхто": [
     {
       "хто-ніхто": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "каго-нікаго": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "каму-нікаму": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "каго-нікаго": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "кім-нікім": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "кім-нікім": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -10944,37 +10872,37 @@
   "хтось": [
     {
       "хтось": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "кагось": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "камусь": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "кагось": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "кімсь": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "кімсь": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -10982,37 +10910,37 @@
   "хтосьці": [
     {
       "хтосьці": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "кагосьці": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "камусьці": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "кагосьці": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "кімсьці": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "кімсьці": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Anim|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -11020,163 +10948,163 @@
   "чый": [
     {
       "чый": [
-        "Case=Nom|Gender=Masc|Number=Sing|PronType=Int/Rel",
+        "Case=Nom|Gender=Masc|Number=Sing|PronType=IntAnimRel",
         "SAL0MNS"
       ]
     },
     {
       "чыйго": [
-        "Case=Gen|Gender=Masc|Number=Sing|PronType=Int/Rel",
+        "Case=Gen|Gender=Masc|Number=Sing|PronType=IntAnimRel",
         "SAL0MGS"
       ]
     },
     {
       "чыйму": [
-        "Case=Dat|Gender=Masc|Number=Sing|PronType=Int/Rel",
+        "Case=Dat|Gender=Masc|Number=Sing|PronType=IntAnimRel",
         "SAL0MDS"
       ]
     },
     {
       "чыйго": [
-        "Animacy=Depends|Case=Acc|Gender=Masc|Number=Sing|PronType=Int/Rel",
+        "Animacy=Depends|Case=Acc|Gender=Masc|Number=Sing|PronType=IntAnimRel",
         "SAL0MAS"
       ]
     },
     {
       "чый": [
-        "Animacy=Depends|Case=Acc|Gender=Masc|Number=Sing|PronType=Int/Rel",
+        "Animacy=Depends|Case=Acc|Gender=Masc|Number=Sing|PronType=IntAnimRel",
         "SAL0MAS"
       ]
     },
     {
       "чыім": [
-        "Case=Ins|Gender=Masc|Number=Sing|PronType=Int/Rel",
+        "Case=Ins|Gender=Masc|Number=Sing|PronType=IntAnimRel",
         "SAL0MIS"
       ]
     },
     {
       "чыім": [
-        "Case=Loc|Gender=Masc|Number=Sing|PronType=Int/Rel",
+        "Case=Loc|Gender=Masc|Number=Sing|PronType=IntAnimRel",
         "SAL0MLS"
       ]
     },
     {
       "чыя": [
-        "Case=Nom|Gender=Fem|Number=Sing|PronType=Int/Rel",
+        "Case=Nom|Gender=Fem|Number=Sing|PronType=IntAnimRel",
         "SAL0FNS"
       ]
     },
     {
       "чыёй": [
-        "Case=Gen|Gender=Fem|Number=Sing|PronType=Int/Rel",
+        "Case=Gen|Gender=Fem|Number=Sing|PronType=IntAnimRel",
         "SAL0FGS"
       ]
     },
     {
       "чыёй": [
-        "Case=Dat|Gender=Fem|Number=Sing|PronType=Int/Rel",
+        "Case=Dat|Gender=Fem|Number=Sing|PronType=IntAnimRel",
         "SAL0FDS"
       ]
     },
     {
       "чыю": [
-        "Case=Acc|Gender=Fem|Number=Sing|PronType=Int/Rel",
+        "Case=Acc|Gender=Fem|Number=Sing|PronType=IntAnimRel",
         "SAL0FAS"
       ]
     },
     {
       "чыёй": [
-        "Case=Ins|Gender=Fem|Number=Sing|PronType=Int/Rel",
+        "Case=Ins|Gender=Fem|Number=Sing|PronType=IntAnimRel",
         "SAL0FIS"
       ]
     },
     {
       "чыёю": [
-        "Case=Ins|Gender=Fem|Number=Sing|PronType=Int/Rel",
+        "Case=Ins|Gender=Fem|Number=Sing|PronType=IntAnimRel",
         "SAL0FIS"
       ]
     },
     {
       "чыёй": [
-        "Case=Loc|Gender=Fem|Number=Sing|PronType=Int/Rel",
+        "Case=Loc|Gender=Fem|Number=Sing|PronType=IntAnimRel",
         "SAL0FLS"
       ]
     },
     {
       "чыё": [
-        "Case=Nom|Gender=Neut|Number=Sing|PronType=Int/Rel",
+        "Case=Nom|Gender=Neut|Number=Sing|PronType=IntAnimRel",
         "SAL0NNS"
       ]
     },
     {
       "чыйго": [
-        "Case=Gen|Gender=Neut|Number=Sing|PronType=Int/Rel",
+        "Case=Gen|Gender=Neut|Number=Sing|PronType=IntAnimRel",
         "SAL0NGS"
       ]
     },
     {
       "чыйму": [
-        "Case=Dat|Gender=Neut|Number=Sing|PronType=Int/Rel",
+        "Case=Dat|Gender=Neut|Number=Sing|PronType=IntAnimRel",
         "SAL0NDS"
       ]
     },
     {
       "чыё": [
-        "Case=Acc|Gender=Neut|Number=Sing|PronType=Int/Rel",
+        "Case=Acc|Gender=Neut|Number=Sing|PronType=IntAnimRel",
         "SAL0NAS"
       ]
     },
     {
       "чыім": [
-        "Case=Ins|Gender=Neut|Number=Sing|PronType=Int/Rel",
+        "Case=Ins|Gender=Neut|Number=Sing|PronType=IntAnimRel",
         "SAL0NIS"
       ]
     },
     {
       "чыім": [
-        "Case=Loc|Gender=Neut|Number=Sing|PronType=Int/Rel",
+        "Case=Loc|Gender=Neut|Number=Sing|PronType=IntAnimRel",
         "SAL0NLS"
       ]
     },
     {
       "чые": [
-        "Case=Nom|Number=Plur|PronType=Int/Rel",
+        "Case=Nom|Number=Plur|PronType=IntAnimRel",
         "SAL00NP"
       ]
     },
     {
       "чыіх": [
-        "Case=Gen|Number=Plur|PronType=Int/Rel",
+        "Case=Gen|Number=Plur|PronType=IntAnimRel",
         "SAL00GP"
       ]
     },
     {
       "чыім": [
-        "Case=Dat|Number=Plur|PronType=Int/Rel",
+        "Case=Dat|Number=Plur|PronType=IntAnimRel",
         "SAL00DP"
       ]
     },
     {
       "чыіх": [
-        "Animacy=Depends|Case=Acc|Number=Plur|PronType=Int/Rel",
+        "Animacy=Depends|Case=Acc|Number=Plur|PronType=IntAnimRel",
         "SAL00AP"
       ]
     },
     {
       "чые": [
-        "Animacy=Depends|Case=Acc|Number=Plur|PronType=Int/Rel",
+        "Animacy=Depends|Case=Acc|Number=Plur|PronType=IntAnimRel",
         "SAL00AP"
       ]
     },
     {
       "чыімі": [
-        "Case=Ins|Number=Plur|PronType=Int/Rel",
+        "Case=Ins|Number=Plur|PronType=IntAnimRel",
         "SAL00IP"
       ]
     },
     {
       "чыіх": [
-        "Case=Loc|Number=Plur|PronType=Int/Rel",
+        "Case=Loc|Number=Plur|PronType=IntAnimRel",
         "SAL00LP"
       ]
     }
@@ -11866,37 +11794,37 @@
   "што": [
     {
       "што": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Int",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Int",
         "SNL00NS"
       ]
     },
     {
       "чаго": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Int",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Int",
         "SNL00GS"
       ]
     },
     {
       "чаму": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Int",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Int",
         "SNL00DS"
       ]
     },
     {
       "што": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Int",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Int",
         "SNL00AS"
       ]
     },
     {
       "чым": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Int",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Int",
         "SNL00IS"
       ]
     },
     {
       "чым": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Int",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Int",
         "SNL00LS"
       ]
     }
@@ -11904,37 +11832,37 @@
   "што-колечы": [
     {
       "што-колечы": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "чаго-колечы": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "чаму-колечы": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "што-колечы": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "чым-колечы": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "чым-колечы": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -11942,37 +11870,37 @@
   "што-кольвек": [
     {
       "што-кольвек": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "чаго-кольвек": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "чаму-кольвек": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "што-кольвек": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "чым-кольвек": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "чым-кольвек": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -11980,37 +11908,37 @@
   "што-кольвечы": [
     {
       "што-кольвечы": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "чаго-кольвечы": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "чаму-кольвечы": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "што-кольвечы": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "чым-кольвечы": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "чым-кольвечы": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -12018,37 +11946,37 @@
   "што-небудзь": [
     {
       "што-небудзь": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "чаго-небудзь": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "чаму-небудзь": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "што-небудзь": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "чым-небудзь": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "чым-небудзь": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -12056,37 +11984,37 @@
   "што-нішто": [
     {
       "што-нішто": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "чаго-нічаго": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "чаму-нічаму": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "што-нішто": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "чым-нічым": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "чым-нічым": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
@@ -12132,37 +12060,37 @@
   "штосьці": [
     {
       "штосьці": [
-        "Animacy=/|Case=Nom|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind",
         "SNF00NS"
       ]
     },
     {
       "чагосьці": [
-        "Animacy=/|Case=Gen|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Gen|Number=Sing|PronType=Ind",
         "SNF00GS"
       ]
     },
     {
       "чамусьці": [
-        "Animacy=/|Case=Dat|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Dat|Number=Sing|PronType=Ind",
         "SNF00DS"
       ]
     },
     {
       "штосьці": [
-        "Animacy=/|Case=Acc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind",
         "SNF00AS"
       ]
     },
     {
       "чымсьці": [
-        "Animacy=/|Case=Ins|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Ins|Number=Sing|PronType=Ind",
         "SNF00IS"
       ]
     },
     {
       "чымсьці": [
-        "Animacy=/|Case=Loc|Number=Sing|PronType=Ind",
+        "Animacy=Inan|Case=Loc|Number=Sing|PronType=Ind",
         "SNF00LS"
       ]
     }
