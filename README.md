@@ -6,7 +6,7 @@ A rule-based belarusian language parser with neural model hints feature
 
 This is a Python library for morphological analysis of belarusian texts.
 
-Parser architecture consists of two layers: rule-based and neural (as a neural layer, stanza 'be' model (based on HSE Belarusian UD Treebank) is used).If neural hints are selected to be used for analysis, they are used as a correction filter for primary analyses made by rule-based layer.
+Parser architecture consists of two layers: rule-based and neural (as a neural layer, stanza 'be' model (based on HSE Belarusian UD Treebank) is used). If neural hints are selected to be used for analysis, they are used as a correction filter for primary analyses made by rule-based layer.
 
 ## Installation
 
