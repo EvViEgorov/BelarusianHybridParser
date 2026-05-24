@@ -4,12 +4,17 @@ from be_hybrid_parser import BeHybridParser
 from pprint import pprint
 
 
-parser = BeHybridParser("Нешта на беларускай мове", neural_hints=None, use_dicts=True)
+parser = BeHybridParser("на беларускай мове")
 
 pprint(
     parser.analysis,
     sort_dicts=False
 )
+
+# pprint(
+#     parser.analysis,
+#     sort_dicts=False
+# )
 
 # morph = MorphAnalyzer()
 # morph._ensure_loaded()

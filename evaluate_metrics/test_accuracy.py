@@ -162,15 +162,15 @@ def evaluate_parser(conllu_path, max_sentences=None, unknown_only=True, pos_filt
     total_available = len(all_sentences)
     if max_sentences is not None:
         sentences = all_sentences[:max_sentences]
-        print(f"Взято {len(sentences)} из {total_available} предложений\n")
+        print(f"Taken {len(sentences)} sentences from {total_available}\n")
     else:
         sentences = all_sentences
-        print(f"Всего предложений: {len(sentences)}\n")
+        print(f"Total sentences: {len(sentences)}\n")
 
     if pos_filter:
-        print(f"Анализируются части речи: {', '.join(pos_filter)}\n")
+        print(f"POS for analysis: {', '.join(pos_filter)}\n")
 
-    for sent_idx, sentence in enumerate(tqdm(sentences, desc="Обработка предложений..."), start=1):
+    for sent_idx, sentence in enumerate(tqdm(sentences, desc="Processing sentences..."), start=1):
         words = [token['form'] for token in sentence if isinstance(token['id'], int)]
         gold_by_id = {}
         for token in sentence:
@@ -297,7 +297,7 @@ def evaluate_parser(conllu_path, max_sentences=None, unknown_only=True, pos_filt
                         }
                         csv_rows.append(row)
 
-                # Метрики считаем ТОЛЬКО для неизвестных слов
+                # Evaluating metrics ONLY for unknown stems
                 if unknown_only and not is_unknown:
                     continue
 
@@ -356,7 +356,7 @@ def evaluate_parser(conllu_path, max_sentences=None, unknown_only=True, pos_filt
                 pos_r['pos_feats'].append(rpf)
                 pos_r['lemma_pos_feats'].append(rlpf)
 
-    # Собираем результаты
+    # Collecting results
     final_results = {}
     for hm in hint_modes:
         res = {
@@ -423,9 +423,9 @@ def save_csv(rows, csv_path):
 
 def print_results(all_results):
     mode_names = {
-        'none': 'БЕЗ ПОДСКАЗОК',
-        'lemma': 'ПОДСКАЗКА ЛЕММЫ',
-        'pos_feats': 'ПОДСКАЗКА POS+FEATS'
+        'none': 'NO HINTS',
+        'lemma': 'LEMMA HINT',
+        'pos_feats': 'POS+FEATS HINT'
     }
     for mode_key, results in all_results.items():
         if mode_key == 'csv_path':
@@ -433,25 +433,25 @@ def print_results(all_results):
         label = mode_names.get(mode_key, mode_key)
         stats = results['stats']
         print("\n" + "=" * 70)
-        print(f"  РЕЗУЛЬТАТЫ — {label}")
+        print(f"  RESULTS — {label}")
         print("=" * 70)
-        print(f"  Предложений:              {stats['sentences_processed']}")
+        print(f"  Sentences:              {stats['sentences_processed']}")
         if stats['pos_filter']:
-            print(f"  Части речи:               {', '.join(stats['pos_filter'])}")
-        print(f"  Всего слов оценено:     {stats['parsed_words']}")
-        print(f"  Ошибок:                   {stats['errors']}")
+            print(f"  Analyzed POS:               {', '.join(stats['pos_filter'])}")
+        print(f"  Total words:     {stats['parsed_words']}")
+        print(f"  Errors:                   {stats['errors']}")
         print("-" * 70)
 
         overall = results['overall']
         overall_recall = results['overall_recall']
         print(f"  {'':<25} {'Accuracy':<10} {'Recall':<10}")
-        print(f"  {'Лемма:':<25} {overall['lemma_only']:<10.4f} {overall_recall['lemma_only']:<10.4f}")
-        print(f"  {'Часть речи (POS):':<25} {overall['pos_only']:<10.4f} {overall_recall['pos_only']:<10.4f}")
-        print(f"  {'Грам. признаки:':<25} {overall['feats_only']:<10.4f} {overall_recall['feats_only']:<10.4f}")
-        print(f"  {'POS + признаки:':<25} {overall['pos_feats']:<10.4f} {overall_recall['pos_feats']:<10.4f}")
-        print(f"  {'Лемма + POS + призн.:':<25} {overall['lemma_pos_feats']:<10.4f} {overall_recall['lemma_pos_feats']:<10.4f}")
+        print(f"  {'Lemma:':<25} {overall['lemma_only']:<10.4f} {overall_recall['lemma_only']:<10.4f}")
+        print(f"  {'POS:':<25} {overall['pos_only']:<10.4f} {overall_recall['pos_only']:<10.4f}")
+        print(f"  {'Gram features:':<25} {overall['feats_only']:<10.4f} {overall_recall['feats_only']:<10.4f}")
+        print(f"  {'POS + Gram features:':<25} {overall['pos_feats']:<10.4f} {overall_recall['pos_feats']:<10.4f}")
+        print(f"  {'Lemma + POS + Gram features.:':<25} {overall['lemma_pos_feats']:<10.4f} {overall_recall['lemma_pos_feats']:<10.4f}")
 
-        print("\n  --- По частям речи ---")
+        print("\n  --- By POS ---")
         header = f"  {'POS':<8} {'Кол-во':<8} {'Acc-L':<8} {'Rec-L':<8} {'Acc-P':<8} {'Rec-P':<8} {'Acc-F':<8} {'Rec-F':<8}"
         print(header)
         print("  " + "-" * 76)
@@ -463,17 +463,17 @@ def print_results(all_results):
                   f"{metrics['feats_only']:<8.4f} {rec_metrics['feats_only']:<8.4f}")
 
     if 'csv_path' in all_results:
-        print(f"\n  Подробный CSV: {all_results['csv_path']}")
+        print(f"\n  Detailed CSV: {all_results['csv_path']}")
 
 
 if __name__ == '__main__':
     conllu_path = 'be_hse-ud-test.conllu'
 
-    MAX_SENTENCES = None  # число-кол-во предложений которые надо проанализировать ЛИБО None
-    UNKNOWN_ONLY = True # вести подсчет только по неизвестным основам или по всем словам
-    POS_FILTER = None  # список POS-тэгов которые надо анализировать ЛИБО None
-    SAVE_CSV = True # Вести лог произведённых анализов в csv-файл
-    USE_DICTS = False   # Использовать или не использовать словари для анализа открытых классов (для закрытых словари будут в любом случае)
+    MAX_SENTENCES = None  # how many sentences from test file should be analyzed OR None
+    UNKNOWN_ONLY = True # if only stems not presented in dictionaries should be analyzed
+    POS_FILTER = None  # list of POS-tags to analyze OR None
+    SAVE_CSV = True # Write analyses log to CSV
+    USE_DICTS = False   # Should stem dictionaries be used for open word classes analysis (will be used for closed word classes anyway)
 
     results = evaluate_parser(
         conllu_path,

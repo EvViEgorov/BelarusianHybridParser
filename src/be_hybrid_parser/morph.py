@@ -26,7 +26,7 @@ class MorphAnalyzer:
         self._part_dict = None
         self._loaded = False
 
-    # загрузка словарей
+    # Loading dictionaries
     def _load_resources(self):
         with open(self._DATA_DIR / 'ADJ_suff.json', 'r', encoding='utf-8') as f:
             self._adj_suff = json.load(f)
@@ -67,10 +67,10 @@ class MorphAnalyzer:
             self._load_resources()
 
     #
-    # ФУНКЦИИ АНАЛИЗА ПО ЧАСТЯМ РЕЧИ
+    # ANALYSIS FUNCTIONS BY POS
     #
 
-    # ПРИЛАГАТЕЛЬНОЕ
+    # ADJ
     def _analyze_adj(self, wordform, use_dicts):
         self._ensure_loaded()
         return self._analyze_declinable(
@@ -110,7 +110,7 @@ class MorphAnalyzer:
         result = list(possible_by_ending & possible_by_stem)
         return result
 
-    # СУЩЕСТВИТЕЛЬНОЕ
+    # NOUN
     def _analyze_noun(self, wordform, use_dicts):
         self._ensure_loaded()
         return self._analyze_declinable(
@@ -124,7 +124,7 @@ class MorphAnalyzer:
         )
 
     def _derive_feats_noun(self, form_stem: str, form_ending: str) -> dict:
-        # выдает Animacy и Gender
+        # returns Animacy and Gender
         stem = form_stem.lower()
 
         masc_endings = ['', 'у', 'ам', 'е', 'я', 'ю', 'ем', 'і', 'а', 'ы', 'аў', 'амі',
@@ -193,7 +193,7 @@ class MorphAnalyzer:
 
         return possible_by_ending
 
-    # ГЛАГОЛ
+    # VERB
 
     def _analyze_verb(self, wordform, use_dicts):
         self._ensure_loaded()
@@ -264,7 +264,7 @@ class MorphAnalyzer:
 
         return possible_by_ending
 
-    # НАРЕЧИЕ
+    # ADV
     def _analyze_adv(self, wordform, use_dicts):
         self._ensure_loaded()
         return self._analyze_declinable(
@@ -292,8 +292,8 @@ class MorphAnalyzer:
     def _get_adv_lemma_endings(self, stem: str, ending: str):
         pass
 
-    # ОБЩАЯ ФУНКЦИЯ АНАЛИЗА
-    # Открытые классы
+    # COMMON ANALYSIS FUNCTION
+    # Open word classes
     def _analyze_declinable(
             self,
             wordform: str,
@@ -308,20 +308,20 @@ class MorphAnalyzer:
         wordform = wordform.lower()
         all_analyses = []
 
-        # собираем множество окончаний
+        # collecting endings set
         all_endings = set()
         for lemma_type in suff_dict:
             for heuristic_le in suff_dict[lemma_type]:
                 for form_ending in suff_dict[lemma_type][heuristic_le]:
                     all_endings.add(form_ending)
 
-        # 1. Поиск в словаре
+        # 1. Dictionary search
         if use_dicts:
             for ending in sorted(all_endings, key=len, reverse=True):
                 if wordform.endswith(ending):
                     stem_candidate = wordform[:-len(ending)] if ending else wordform
 
-                    # слишком короткие основы в минус
+                    # ignoring short stems
                     if len(stem_candidate) < 2:
                         continue
 
@@ -366,7 +366,7 @@ class MorphAnalyzer:
                     if found_in_dict:
                         break
 
-        # 2. Эвристика
+        # 2. Heuristics
         if not all_analyses:
             for ending in sorted(all_endings, key=len, reverse=True):
                 if wordform.endswith(ending):
@@ -377,11 +377,11 @@ class MorphAnalyzer:
 
                     possible_form_feats = derive_form_feats(heuristic_stem, ending) if derive_form_feats else [{}]
 
-                    # Определяем, какие леммные окончания допустимы
+                    # Defining possible lemma endings
                     if get_possible_lemma_types:
                         possible_lemma_ends = get_possible_lemma_types(heuristic_stem, ending)
                     else:
-                        # Все lemma_ending, у которых есть данный form_ending
+                        # All lemma_ending with current form_ending
                         possible_lemma_ends = [
                             (lt, le) for lt in suff_dict
                             for le, fes in suff_dict[lt].items()
@@ -391,7 +391,7 @@ class MorphAnalyzer:
                     for heuristic_lt, heuristic_le in possible_lemma_ends:
                         lemma = heuristic_stem + heuristic_le
 
-                        # Находим все возможные разборы при том же lemma_type и эвристическом lemma ending
+                        # Searching for all possible stems with current lemma_type and heuristic lemma_ending
                         gram_dict = {}
                         for le, fes in suff_dict[heuristic_lt].items():
                             if heuristic_le == le and ending in fes:
@@ -423,11 +423,11 @@ class MorphAnalyzer:
                 if all_analyses:
                     break
 
-        # 3. Не разобрано
+        # 3. Could not analyze
         if not all_analyses:
             return []
 
-        # Сортировка и исключение повторов
+        # Sorting and filtering repeating data
         all_analyses.sort(key=lambda x: x['frequency'], reverse=True)
 
         result = []
@@ -447,10 +447,10 @@ class MorphAnalyzer:
         return result
 
     #
-    # НЕИЗМЕНЯЕМЫЕ
+    # INDECLINABLE
     #
 
-    # Функции отдельных частей речи закрытых классов
+    # Functions for closed word classes
     # ADP
     def _analyze_adp(self, wordform):
         self._ensure_loaded()
@@ -523,7 +523,7 @@ class MorphAnalyzer:
             forms_dict=self._verbpred_dict
         )
 
-    # ОБЩАЯ ФУНКЦИЯ АНАЛИЗА
+    # COMMON ANALYSIS FUNCTIONS (CLOSED WORD CLASSES)
     def _analyze_indeclinable(
             self,
             wordform: str,
@@ -584,7 +584,7 @@ class MorphAnalyzer:
 
         results = []
 
-        # Открытые классы
+        # Open word classes
         if pos_hint is None or pos_hint == 'NOUN':
             results.extend(self._analyze_noun(wordform, use_dicts))
         if pos_hint is None or pos_hint == 'ADJ':
@@ -594,7 +594,7 @@ class MorphAnalyzer:
             results.extend(self._analyze_pred(wordform))
         if pos_hint is None or pos_hint == 'ADV':
             results.extend(self._analyze_adv(wordform, use_dicts))
-        # Закрытые классы
+        # Closed word classes
         if pos_hint is None or pos_hint == 'AUX':
             results.extend(self._analyze_aux(wordform))
         if pos_hint is None or pos_hint == 'PRON':
@@ -610,7 +610,7 @@ class MorphAnalyzer:
         if pos_hint is None or pos_hint == 'PART':
             results.extend(self._analyze_part(wordform))
 
-        # Фильтрация по нейросетевым подсказкам
+        # Filter by neural hints
         if lemma_hint is not None:
             results = [r for r in results if r.get('lemma') == lemma_hint]
 
@@ -629,7 +629,7 @@ class MorphAnalyzer:
                         filtered.append(r)
                 results = filtered
 
-        # 3. Сортировка и исключение повторов
+        # 3. Sorting and filtering repeated data
         results.sort(key=lambda x: (x.get('known_stem', False), x.get('confidence', 0)), reverse=True)
 
         seen = set()

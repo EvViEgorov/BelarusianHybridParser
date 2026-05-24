@@ -1,10 +1,10 @@
 __version__ = "1.0.2"
 __author__ = "EvViEgorov"
 
-# Импортируем главные классы и функции из подмодулей
+# Importing main classes from modules
 from .core import BeHybridParser
 
-# Определяем публичный API библиотеки
+# Defining library public API
 __all__ = [
     "BeHybridParser"
 ]
